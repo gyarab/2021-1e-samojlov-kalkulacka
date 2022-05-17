@@ -1,7 +1,0 @@
-.LinearniGradient{
-    -fx-background-color: linear-gradient(to top right, #FF6699, #FFE066);
-}
-.button:pressed{
-    -fx-border-color: #FFE066;
-    -fx-border-width: 4;
-}
